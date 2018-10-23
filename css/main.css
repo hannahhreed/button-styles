@@ -21,15 +21,13 @@ div {
   border: 3px solid #000;
 }
 
-.btn:hover {
-}
-
 .btn-subtle {
   background-color: #ccc;
   color: #fff;
 }
 
 .btn-subtle:hover {
+  background-color: #666;
 }
 
 .btn-ghost {
