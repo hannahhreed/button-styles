@@ -18,6 +18,7 @@ div {
   padding: .4em .75em .3em;
   text-decoration: none;
   border-radius: 8px;
+  border: 3px solid #000;
 }
 
 .btn:hover {
@@ -32,7 +33,7 @@ div {
 }
 
 .btn-ghost {
-  border: 3px solid #000;
+  border-color: #000;
   color: #000;
 }
 
@@ -45,10 +46,12 @@ div {
 .btn-warning {
   background-color: #f33;
   color: #fff;
+  border-color: #f33;
 }
 
 .btn-warning:hover {
   background-color: #933;
+  border-color: #933;
 }
 
 .btn-small {
